@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-
+#!/usr/bin/env python3
 import urllib.request
 
 # Taked a port from server part

@@ -1,7 +1,7 @@
 # -*- coding: UTF-8 -*-
-
+#!/usr/bin/env python3
 import http.server
-import sockerserver
+import socketserver
 
 # simple server on python base-libs
 _handler = http.server.SimpleHTTPRequestHandler
