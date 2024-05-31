@@ -1,4 +1,4 @@
 # docker_compose_OS
-A little repo for docker-compose using: nessesary source for OS course homework.
+A little repo with template of docker-compose using: needed for OS course homework.
 
-Here is simple "client <-> server" arch app which docker deploying.
+Here is simple "client <-> server" arch app via docker deploying.
